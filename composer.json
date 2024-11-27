@@ -3,6 +3,7 @@
     "description": "Wink Publishing Framework.",
     "keywords": ["framework", "laravel", "blog"],
     "license": "MIT",
+    "version": "dev-laravel11",
     "authors": [
         {
             "name": "Mohamed Said",
